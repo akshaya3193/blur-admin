@@ -948,7 +948,6 @@ code.lang-markdown .bullet {
 
 /* media queries */
 
-
 @media screen and (max-width: 960px) {
     .nav-main {
         position: static
